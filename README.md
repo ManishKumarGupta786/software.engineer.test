@@ -4,3 +4,4 @@
  # _ymalpath = "D:\\feed-products\\capterra.yaml"; ** 
  # clone repo in same folder
  # pass command line argument **a) import capterra feed-products/capterra.yaml b) import softwareadvice feed-products/softwareadvice.json**
+ # database file is exist under gartnertestdemo project.
